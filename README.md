@@ -28,4 +28,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Project Picture
-![Proje Resmi](Proje Resmi.png)
+![Proje Resmi](https://github.com/kaan64-ops/kodluyoruzilkrepo/blob/main/Proje%20Resmi.png)
